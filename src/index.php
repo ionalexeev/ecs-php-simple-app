@@ -17,6 +17,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
+                <h1>Cloud gate academy</h1>
                 <h2>Congratulations</h2>
                 
                 <?php
